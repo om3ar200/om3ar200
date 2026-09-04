@@ -46,16 +46,5 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omar's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Portfolio Website
 - Check out my upcoming portfolio: [om3ar200](https://om3ar200.github.io)
