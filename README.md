@@ -58,4 +58,4 @@
 ---
 
 ### 🌐 Portfolio Website
-- Check out my upcoming portfolio: [ِAlvaGad](https://om3ar200.github.io)
+- Check out my upcoming portfolio: [om3ar200](https://om3ar200.github.io)
